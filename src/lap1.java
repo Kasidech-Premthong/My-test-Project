@@ -6,10 +6,7 @@ public class lap1 {
 		//	double gpa = 3.50;
 		//	String firstName = "Kasdech"; 
 			
-			//System.out.println("Hello");
-			//System.out.println("World" + gpa);
-			//System.out.println(c);
-			
+		
 			for(int i=0 ; i<10 ; i++)
 			   if(i % 2 == 0)
 				System.out.println("Kasidech, " + i);
